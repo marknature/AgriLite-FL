@@ -2,8 +2,6 @@
 
 *A Resource-Constrained Federated Learning System for Soil-Based Crop Recommendations*
 
----
-
 ## 🌍 Overview
 
 **AgriLite-FL** is an intelligent and lightweight agricultural analytics platform designed for smallholder farmers in Africa, particularly in regions like Zimbabwe.
@@ -13,7 +11,7 @@ The project extends ideas from **Harvestify** and integrates concepts inspired b
 
 ![Home Page](home.png)
 
----
+<br>
 
 ## 🎯 Core Objectives
 
@@ -23,7 +21,7 @@ The project extends ideas from **Harvestify** and integrates concepts inspired b
 4. **Enhance Productivity & Sustainability** through explainable AI models that support informed decision-making.
 5. **Integrate Conversational Interfaces** (Chatbot) to improve accessibility, education, and remote support for farmers.
 
----
+<br>
 
 ## 💪 Project Motivation
 
@@ -34,7 +32,7 @@ Agriculture drives economic growth in Zimbabwe and across Africa. However, farme
 * **Fertilizer Recommendation:** Advises which fertilizers to use to balance nutrient content.
 * **Disease Detection:** Identifies plant diseases via leaf image analysis and provides treatment guidance.
 
----
+<br>
 
 ## 📊 Data Sources
 
@@ -42,7 +40,7 @@ Agriculture drives economic growth in Zimbabwe and across Africa. However, farme
 * **Fertilizer Suggestion Dataset:** Built from local agricultural data.
 * **Disease Detection Dataset:** Based on regional crop diseases and imagery.
 
----
+<br>
 
 ## 🧠 System Components
 
@@ -71,7 +69,7 @@ Agriculture drives economic growth in Zimbabwe and across Africa. However, farme
 * Offers **interactive, multilingual assistance** (English and Shona).
 * Provides **crop**, **fertilizer**, and **disease** recommendations in a conversational way.
 
----
+<br>
 
 ## 🏗️ Technical Architecture
 
@@ -81,7 +79,7 @@ Agriculture drives economic growth in Zimbabwe and across Africa. However, farme
 * **Storage:** Global model and performance logs.
 * **Dashboard:** For monitoring model drift and insights.
 
----
+<br>
 
 ## 🚀 Deployment
 
@@ -91,7 +89,7 @@ Agriculture drives economic growth in Zimbabwe and across Africa. However, farme
 
 > ⚠️ *Note: The website may take a minute to load if the server is hibernating.*
 
----
+<br>
 
 ## 💻 How to Run Locally
 
@@ -138,9 +136,10 @@ Follow these steps to run **AgriLite-FL** on your machine:
 
 > ⚠️ *If you see a warning like “Trying to unpickle estimator DecisionTreeClassifier from version 0.23.2…” — it’s harmless. It just means the model was trained in an older sklearn version.*
 
+<br>
 ![How to run!](run.png)
 
----
+<br>
 
 ## 🧩 How to Use
 

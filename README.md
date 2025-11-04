@@ -11,6 +11,8 @@ It integrates **Federated Learning (FL)**, **Computer Vision (CV)**, and **Natur
 
 The project extends ideas from **Harvestify** and integrates concepts inspired by the **Multiverse of 100+ Data Science Project Series** repository to enhance modularity, scalability, and learning efficiency.
 
+![Home Page](home.png)
+
 ---
 
 ## 🎯 Core Objectives
@@ -135,6 +137,8 @@ Follow these steps to run **AgriLite-FL** on your machine:
    Then open your browser and visit the address above.
 
 > ⚠️ *If you see a warning like “Trying to unpickle estimator DecisionTreeClassifier from version 0.23.2…” — it’s harmless. It just means the model was trained in an older sklearn version.*
+
+![How to run!](run.png)
 
 ---
 

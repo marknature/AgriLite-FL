@@ -1,0 +1,71 @@
+{% extends 'layout.html' %} {% block body %}
+
+<style>
+  html body {
+    background-color: rgb(206, 206, 228);
+  }
+</style>
+<!--Form Section-->
+<br /><br />
+<h2 style="text-align: center; margin: 0px; color: black">
+  <b>Group Members</b>
+</h2>
+<h4 style="text-align: center; margin: 0px; color: black">
+  <b>AgriLite Team</b>
+</h4>
+<br />
+
+<div
+  style="
+    width: 350px;
+    height: 40rem;
+    margin: 0px auto;
+    color: black;
+    border-radius: 25px;
+    padding: 10px 10px;
+    text-align: center
+  "
+>
+  <form method="POST" action="{{ url_for('fert_recommend') }}">
+    <div class="form-group">
+      <label for="Nitrogen" style="font-size: 17px"><b>1. Donald Muyezwa 230330</b></label>
+    </div>
+    <div class="form-group">
+      <label for="Phosphorous" style="font-size: 17px"
+        ><b>2. Rutendo Zimbodza 230153</b></label>
+    </div>
+    <div class="form-group">
+      <label for="Pottasium" style="font-size: 17px"><b>3. ⁠Grace N. Ndjihu 220044</b></label>
+    </div>
+    <div class="form-group">
+      <label for="Nitrogen" style="font-size: 17px"><b>4. Anotidaishe Mutatu 230313
+</b></label>
+    </div>
+    <div class="form-group">
+      <label for="Phosphorous" style="font-size: 17px"
+        ><b>5. Mark Chindudzi 230378</b></label>
+    </div>
+    <div class="form-group">
+      <label for="Pottasium" style="font-size: 17px"><b>6. Tadiwanashe Chifura 230002</b></label>
+    </div>
+    <div class="form-group">
+      <label for="Phosphorous" style="font-size: 17px"
+        ><b>7. Jeremy Mukadi 230603</b></label>
+    </div>
+    <div class="form-group">
+      <label for="Pottasium" style="font-size: 17px"><b>8. Taropafadzwa Kaseke 230204</b></label>
+    </div>
+    <div class="form-group">
+      <label for="Nitrogen" style="font-size: 17px"><b>9. Christian Nkulu 220359</b></label>
+    </div>
+    <div class="form-group">
+      <label for="Phosphorous" style="font-size: 17px"
+        ><b>10. Michael T Mafemba 230129</b></label>
+    </div>
+    <div class="form-group">
+      <label for="Phosphorous" style="font-size: 17px"
+        ><b>11. Farai Mawire 230503</b></label>
+    </div>
+  </form>
+</div>
+{% endblock %}

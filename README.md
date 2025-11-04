@@ -19,17 +19,17 @@ The project extends ideas from **Harvestify** and integrates concepts inspired b
 
 | Name                        | Role/Position        | ID        |
 |-----------------------------|----------------------|-----------|
-| Donald Muyena               | DevOps Engineer       | 2030303   |
-| Ruendo Zimbodza             | AI Researcher        | 2030135   |
+| Donald Muyena               | DevOps Engineer       | 230330   |
+| Ruendo Zimbodza             | AI Researcher        | 230135   |
 | Grace N. Ndhuju             | UI & UX Designer     | 220044    |
-| Anotidaishe Mutasa          | AI Project Manager   | 2300138   |
-| Mark Chindori               | Applied Scientist $ Lead Developer | 2300177   |
-| Tafiwanshe Chifura          | AI Researcher         | 2300124   |
-| Jeremy Mukadi               | Domian Expert         | 230063    |
-| Tarapadficta Kasibe         | AI Project Lead       | 230059    |
-| Christian Nkala             | Ethics Analyst        | 230059    |
-| Michael T. Mafemba          | Quality Assurance     | 230063    |
-| Farai Mawire                | Marketing Specialist  | 230063    |
+| Anotidaishe Mutasa          | AI Project Manager   | 230138   |
+| Mark Chindori               | Applied Scientist $ Lead Developer | 230378   |
+| Tafiwanshe Chifura          | AI Researcher         | 230004   |
+| Jeremy Mukadi               | Domian Expert         | 230603    |
+| Tarapadficta Kasibe         | AI Project Lead       | 230204    |
+| Christian Nkala             | Ethics Analyst        | 220359    |
+| Michael T. Mafemba          | Quality Assurance     | 230129   |
+| Farai Mawire                | Marketing Specialist  | 230503    |
 
 ### Additional Suggestions
 - **Roles/Positions:** You can specify roles or responsibilities for each team member if applicable to provide more context.

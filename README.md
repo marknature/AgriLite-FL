@@ -13,6 +13,31 @@ The project extends ideas from **Harvestify** and integrates concepts inspired b
 
 <br>
 
+### Team
+
+#### AgriLite Team Members
+
+| Name                        | Role/Position        | ID        |
+|-----------------------------|----------------------|-----------|
+| Donald Muyena               | Team Lead            | 2030303   |
+| Ruendo Zimbodza            | Developer            | 2030135   |
+| Grace N. Ndhuju            | Developer            | 220044    |
+| Anotidaishe Mutasa         | Designer             | 2300138   |
+| Mark Chindori               | Project Manager      | 2300177   |
+| Tafiwanshe Chifura         | Data Analyst         | 2300124   |
+| Jeremy Mukadi               | Developer            | 230063    |
+| Tarapadficta Kasibe        | QA Engineer          | 230059    |
+| Christian Nkala            | Developer            | 230059    |
+| Michael T. Mafemba         | UX Researcher        | 230063    |
+| Farai Mawire               | Marketing Specialist  | 230063    |
+
+### Additional Suggestions
+- **Roles/Positions:** You can specify roles or responsibilities for each team member if applicable to provide more context.
+- **Contact Information:** Consider adding email addresses or links to LinkedIn profiles for professional connectivity (ensure privacy and consent).
+- **Photos:** Including photos of team members can make the section more personable and engaging.
+
+You can place this section in the documentation after the **Introduction** or **Contributions** sections to highlight the people behind the project.
+
 ## 🎯 Core Objectives
 
 1. **Empower Local Farmers** through accessible, AI-driven tools that assist in crop, fertilizer, and disease management.

@@ -17,19 +17,21 @@ The project extends ideas from **Harvestify** and integrates concepts inspired b
 
 #### AgriLite Team Members
 
-| Name                        | Role/Position        | ID        |
-|-----------------------------|----------------------|-----------|
-| Donald Muyena               | DevOps Engineer       | 230330   |
-| Ruendo Zimbodza             | AI Researcher        | 230135   |
-| Grace N. Ndhuju             | UI & UX Designer     | 220044    |
-| Anotidaishe Mutasa          | AI Project Manager   | 230138   |
-| Mark Chindori               | Applied Scientist $ Lead Developer | 230378   |
-| Tafiwanshe Chifura          | AI Researcher         | 230004   |
-| Jeremy Mukadi               | Domian Expert         | 230603    |
-| Tarapadficta Kasibe         | AI Project Lead       | 230204    |
-| Christian Nkala             | Ethics Analyst        | 220359    |
-| Michael T. Mafemba          | Quality Assurance     | 230129   |
-| Farai Mawire                | Marketing Specialist  | 230503    |
+| Name                        | Role/Position                           | ID      |
+|-----------------------------|-----------------------------------------|---------|
+| Donald Muyezwa              | DevOps Engineer                         | 230330  |
+| Rutendo Zimbodza           | AI Researcher                          | 230135  |
+| Grace N. Ndhijhu           | UI & UX Designer                       | 220044  |
+| Anotidaishe Mutata         | AI Project Manager                     | 230313  |
+| Mark Chindudzi              | Applied Scientist & Lead Developer     | 230378  |
+| Tadiwanashe Chifura        | AI Researcher                          | 230002  |
+| Jeremy Mukadi               | Domain Expert                          | 230603  |
+| Taropafadzwa Kaseke        | AI Project Lead                        | 230204  |
+| Christian Nkulu            | Ethics Analyst                         | 220359  |
+| Michael T. Mafemba         | Quality Assurance                      | 230129  |
+| Farai Mawire               | Marketing Specialist                   | 230503  |
+
+
 
 ### Additional Suggestions
 - **Roles/Positions:** You can specify roles or responsibilities for each team member if applicable to provide more context.
